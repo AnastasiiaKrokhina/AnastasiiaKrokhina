@@ -1,48 +1,22 @@
 # Hello, I'm Anastasiia 👋
 
-I'm a chemist specialized in chemoinformatics and materials informatics, working at the intersection of machine learning, computational chemistry, and scientific software development.
+Chemist specialized in chemoinformatics and materials informatics, working at the intersection of machine learning, computational chemistry, and scientific software development.
 
-My background combines:
-* atomistic simulations,
-* machine learning,
-* high-throughput experimentation,
-* scientific data analysis
+🔎 Currently looking for PhD and research opportunities in:
 
-I enjoy building tools and workflows that connect computational modelling with real experimental problems.
+* ML for scientific discovery
+* Atomistic simulations
+* Autonomous experimentation
+* Molecular modelling
+* Computational spectroscopy
 
----
+## 🛠️ Tools
 
-## 🛠️ Tools & Technologies
-### Programming & Machine Learning
-* Python (scientific computing, machine learning & deep learning)
-* C / C++
+**Programming:** Python, C/C++
+**MD:** LAMMPS, CHARMM, OpenMM, Schrodinger
+**DFT:** ASE, CP2K, Gaussian
 
-### Computational Chemistry & Simulations
-* Molecular Dynamics (LAMMPS, CHARMM, OpenMM, Schrodinger)
-* DFT/Ab initio (ASE, CP2K, Gaussian)
+## 📫 Contact
 
-### Chemistry & Experimental Methods
-* High-throughput experimentation
-* Materials chemistry
-* Spectroscopy
-
----
-
-## 📫 How to Reach Me
-
-* LinkedIn: https://www.linkedin.com/in/anastasiia-k-68154824b/
-
----
-
-## 🌱 Research Interests
-
-I'm especially interested in:
-
-* machine learning for scientific discovery,
-* autonomous and closed-loop experimentation,
-* molecular modelling,
-* computational spectroscopy,
-* materials discovery,
-* and interpretable AI for chemistry.
-
-I'm currently looking for PhD and research opportunities in these areas.
+LinkedIn:
+https://www.linkedin.com/in/anastasiia-k-68154824b/
