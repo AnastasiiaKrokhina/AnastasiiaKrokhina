@@ -21,5 +21,5 @@ Chemist specialized in chemoinformatics and materials informatics, working at th
 LinkedIn:
 https://www.linkedin.com/in/anastasiia-k-68154824b/
 
-Email: [a.krokhina@chemoinformatics.simplelogin.com](mailto: a.krokhina@chemoinformatics.simplelogin.com
+Email: [a.krokhina@chemoinformatics.simplelogin.com](mailto:a.krokhina@chemoinformatics.simplelogin.com
 )
