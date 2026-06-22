@@ -14,7 +14,7 @@ Chemist specialized in chemoinformatics and materials informatics, working at th
 
 **Programming:** Python, C/C++
 **MD:** LAMMPS, CHARMM, OpenMM, Schrodinger
-**DFT:** ASE, CP2K, Gaussian
+**DFT:** VASP, CP2K, Gaussian
 
 ## 📫 Contact
 
